@@ -9,10 +9,10 @@ namespace VSTSDumpTestResults
 {
     class Program
     {
-        public const string DevOpsTenant = "https://dev.azure.com/dzeller1/";
-        public const string User = "david.zeller@outlook.com";
-        public const string Personalaccesstoken = "k2uvovvdxrlhj5il4prbqneacaeatnj5nuduww4upgdl4byguyqa";
-        public const string OutputFile = @"C:\Users\dzeller\Desktop\testdata.json";
+        public const string DevOpsTenant = "https://dev.azure.com/tenant/";
+        public const string User = "user@something.com";
+        public const string Personalaccesstoken = "enterpathere";
+        public const string OutputFile = @"C:\output.json";
 
         static void Main(string[] args)
         {  
