@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSample", "PostSample\PostSample.csproj", "{D9239035-4D5E-46C8-B599-E751B2CE47A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSTSDumpTestResults", "PostSample\VSTSDumpTestResults.csproj", "{D9239035-4D5E-46C8-B599-E751B2CE47A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PostSample.JsonObjects.TestResults
+namespace VSTSDumpTestResults.JsonObjects.TestResults
 {
     public class AssignedTo
     {
@@ -82,7 +82,7 @@ namespace PostSample.JsonObjects.TestResults
     }
 }
 
-namespace PostSample.JsonObjects.Projects
+namespace VSTSDumpTestResults.JsonObjects.Projects
 {
     public class Project
     {
@@ -103,7 +103,7 @@ namespace PostSample.JsonObjects.Projects
     }
 }
 
-namespace PostSample.JsonObjects.TestSuite
+namespace VSTSDumpTestResults.JsonObjects.TestSuite
 {
     public class Project
     {
@@ -192,7 +192,7 @@ namespace PostSample.JsonObjects.TestSuite
     }
 }
 
-namespace PostSample.JsonObjects.TestPlan
+namespace VSTSDumpTestResults.JsonObjects.TestPlan
 {
     public class Project
     {
